@@ -14,7 +14,18 @@ Step to setUp on local
 
 Screen shots
 
-![Alt text](/app/screens/home.png?raw=true "Home Screen") ![Alt text](/app/screens/booking_list.png?raw=true "Booking List") ![Alt text](/app/screens/booking.png?raw=true "Booking")
+<div align="center">
+    <img src="/app/screens/home.png" width="400px"</img> 
+</div>
+</br>
+
+<div align="center">
+    <img src="/app/screens/booking_list.png" width="400px"</img> 
+</div>
+</br>
+<div align="center">
+    <img src="/app/screens/booking.png" width="400px"</img> 
+</div>
 
 
 
