@@ -14,18 +14,13 @@ Step to setUp on local
 
 Screen shots
 
-<div align="center">
-    <img src="/app/screens/home.png" width="400px"</img> 
-</div>
-</br>
-
-<div align="center">
-    <img src="/app/screens/booking_list.png" width="400px"</img> 
-</div>
-</br>
-<div align="center">
-    <img src="/app/screens/booking.png" width="400px"</img> 
-</div>
+<p align="center">
+  <img src="/app/screens/home.png" width="200" title="hover text">
+  
+  <img src="/app/screens/booking_list.png" width="200" alt="accessibility text">
+ 
+   <img src="/app/screens/booking.png" width="200" title="hover text">
+</p>
 
 
 
